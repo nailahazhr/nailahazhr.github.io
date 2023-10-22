@@ -1319,6 +1319,11 @@ section {
   margin-bottom: 0;
 }
 
+.nailah-contact .error {
+  margin-top: 4px;
+  margin-bottom: -10px;
+}
+
 .nailah-contact .contact-form input[type=submit] {
   background: var(--primary-color);
   color: var(--contrast-color);
